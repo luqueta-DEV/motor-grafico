@@ -1,5 +1,3 @@
-
-
 extern crate wgpu;
 
 use wgpu::{Device, Instance, Queue, Adapter, Surface};
