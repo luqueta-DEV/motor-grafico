@@ -1,4 +1,4 @@
-// OpenGL.rs (Rust)
+
 
 extern crate wgpu;
 
